@@ -1,0 +1,15 @@
+[theme]
+# Cor principal (O Roxo Lúmina da sua logo para botões e destaques)
+primaryColor = "#a200ff"
+
+# Cor de fundo da área principal (Um modo escuro profundo e elegante)
+backgroundColor = "#121212"
+
+# Cor de fundo da barra lateral e dos blocos expansíveis
+secondaryBackgroundColor = "#1e1e1e"
+
+# Cor do texto (Branco gelo para alto contraste e leitura fácil)
+textColor = "#ffffff"
+
+# Fonte limpa e moderna, padrão de Dashboards SaaS
+font = "sans serif"
